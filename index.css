@@ -1,0 +1,72 @@
+.zomato{
+    width:180px;
+    height:80px;
+}
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg?w=2000");
+    height:60vh;
+}
+#two{
+    color:white;
+    padding-right: 40px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.headfirst{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+.one{
+    text-align:center;
+    
+}
+
+.three{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:100px;
+    padding-right:100px;
+    border-radius: 15px;
+}
+.paraline{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    font-weight: bold;
+    color:white;
+}
+.foodie{
+    background-color:white;
+    width:500px;
+    border-radius: 15px;
+    padding-top: 20px;
+    height:450px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.foodbackground{
+    background-color:lightgray;
+    height:68vh;
+}
+.imageres{
+    height:250px;
+    width:250px;
+    border-radius: 25px;
+}
+
+.foodname{
+font-size: 50px;
+font-family:cursive;
+font-weight: bold;
+}
+.foodprice{
+    font-weight: bolder;
+    font-size: 30px;
+}
